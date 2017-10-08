@@ -1,2 +1,0 @@
-# SEN2017-GITOPDRACHT
-MemoryGame
